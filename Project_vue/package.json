@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "element-ui": "^2.15.9",
+    "qrcodejs2": "^0.0.2",
+    "vee-validate": "^2.0.0-rc.25",
+    "vue-router": "^3.5.2"
+  },
+  "devDependencies": {
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "vue-lazyload": "^3.0.0-rc.2"
+  }
+}
